@@ -1,0 +1,32 @@
+1
+00:00:02,100 --> 00:00:06,000
+<i>We were engulfed with dark clouds,
+ferocious wind </i>
+
+2
+00:00:06,166 --> 00:00:08,867
+<i>and waves three lengths of our vessel.</i>
+
+3
+00:00:12,000 --> 00:00:16,066
+<i>We fought and rowed tirelessly
+for what seemed miles</i>
+
+4
+00:00:16,500 --> 00:00:19,467
+<i> but exhaustion had given way
+to desperation</i>
+
+5
+00:00:19,934 --> 00:00:23,266
+<i> and we could no longer control
+our boat or our path… </i>
+
+6
+00:00:24,333 --> 00:00:28,200
+<i>lost in the seemingly endless onslaught
+of the tempest</i>
+
+7
+00:00:28,600 --> 00:00:32,166
+<i>…resigned to our fate.</i>

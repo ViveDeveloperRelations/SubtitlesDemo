@@ -1,0 +1,32 @@
+1
+00:00:02,100 --> 00:00:06,000
+<i>Nous nous trouvâmes engloutis par les nuages noirs,
+le vent féroce</i>
+
+2
+00:00:06,166 --> 00:00:08,867
+<i>et des vagues d'une longueur trois fois supérieure à notre embarcation.</i>
+
+3
+00:00:12,000 --> 00:00:16,066
+<i>Nous luttâmes et ramâmes sans relâche
+pour parcourir ce qui semblait être des kilomètres </i>
+
+4
+00:00:16,500 --> 00:00:19,467
+<i>mais l'épuisement laissa place
+au désespoir</i>
+
+5
+00:00:19,934 --> 00:00:23,266
+<i>et nous ne pûmes plus contrôler
+le bateau ou notre trajectoire... </i>
+
+6
+00:00:24,333 --> 00:00:28,200
+<i>perdus dans l'assaut semblant sans fin
+de la tempête</i>
+
+7
+00:00:28,600 --> 00:00:32,166
+<i>...résignés à notre sort.</i>
