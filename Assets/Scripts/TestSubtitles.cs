@@ -22,8 +22,9 @@ public class TestSubtitles : MonoBehaviour
         {
             if (!captionsEnabled) return;
 
-            displayer.subtitleIndex = 1; //0=narration, 1=bang in this example
             if(coroutine!=null) StopCoroutine(coroutine); // stop/start to reload new srt file
+            displayer.subtitleIndex = 1; //0=narration, 1=bang in this example
+            displayer.resetTime = true; // start from beginning for the bang sequence
             coroutine = StartCoroutine(displayer.Begin());
         }
         else if (Input.GetKeyDown(KeyCode.C))
